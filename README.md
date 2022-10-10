@@ -9,3 +9,7 @@
 #### Languages with Private Repos
 
 [![Top Langs](https://github-readme-stats-tunakasif.vercel.app/api/top-langs/?username=tunakasif&layout=compact&langs_count=10&theme=dracula&hide=tex,jupyter%20notebook&exclude_repo=aa-clinic-website,github-readme-stats,elevator,Bilkent-University-EEE)](https://github.com/anuraghazra/github-readme-stats)
+
+#### Non-NFT Badges
+
+[![@tunakasif's Holopin board](https://holopin.io/api/user/board?user=tunakasif)](https://holopin.io/@tunakasif)
