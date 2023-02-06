@@ -11,3 +11,7 @@
 #### Non-NFT Badges
 
 [![@tunakasif's Holopin board](https://holopin.io/api/user/board?user=tunakasif)](https://holopin.io/@tunakasif)
+
+#### Donation
+
+[![Github Sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/tunakasif)
