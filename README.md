@@ -1,5 +1,3 @@
-![Welcome On Board](./img/welcome.jpeg)
-
 ## Hi there 👋, I'm Tuna Alikaşifoğlu
 
 ### Graduate Student at Bilkent University, Electrical and Electronics Engineering Department
