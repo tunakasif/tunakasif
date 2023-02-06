@@ -15,3 +15,4 @@
 #### Donation
 
 [![Github Sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/tunakasif)
+[![Monero (XMR)](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)](./monero.md)
