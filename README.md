@@ -2,15 +2,27 @@
 
 ### Graduate Student at Bilkent University, Electrical and Electronics Engineering Department
 
-- 🔭 I'm currently pursuing M.S. degree at the department of Electrical and Electronics Engineering, Bilkent University. I received my BS degree from the same department. I'm interested in digital signal processing and image processing in the context of graph signal processing.
+- 🔭 I'm currently pursuing an M.S. degree at the Department of Electrical and Electronics Engineering, Bilkent University. I received my B.S. degree from the same department. I'm interested in graph signal processing and graph neural networks.
+
+### 📰 Recent Publications
+
+- **T. Alikaşifoğlu**, B. Kartal and A. Koç, ["Wiener Filtering in Joint Time-Vertex Fractional Fourier Domains,"](https://doi.org/10.1109/LSP.2024.3396664) in _IEEE Signal Processing Letters_, vol. 31, pp. 1319-1323, 2024, doi: 10.1109/LSP.2024.3396664.
+
+  ⚙️ [Source Code](https://github.com/koc-lab/jfrt-optimal)
+
+- A. C. Aras, **T. Alikaşifoğlu** and A. Koç, ["Graph Receptive Transformer Encoder for Text Classification,"](https://doi.org/10.1109/TSIPN.2024.3380362) in _IEEE Transactions on Signal and Information Processing over Networks_, vol. 10, pp. 347-359, 2024, doi: 10.1109/TSIPN.2024.3380362.
+
+  ⚙️ [Source Code](https://github.com/koc-lab/grte)
+
+- E. Koç, **T. Alikaşifoğlu**, A. C. Aras and A. Koç, ["Trainable Fractional Fourier Transform,"](https://doi.org/10.1109/LSP.2024.3372779) in _IEEE Signal Processing Letters_, vol. 31, pp. 751-755, 2024, doi: 10.1109/LSP.2024.3372779.
+
+  ⚙️ [Experiments Source Code](https://github.com/koc-lab/TrainableFrFT) | ⚙️ [Package Source Code](https://github.com/tunakasif/torch-frft) | 🐍 [PyPI Package](https://pypi.org/project/torch-frft/)
+
+---
 
 #### Popular Contributions
 
 ![Popular Contributions](https://github-contributor-stats.vercel.app/api?username=tunakasif&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-#### Languages with Private Repos
-
-[![Top Langs](https://github-readme-stats-tunakasif.vercel.app/api/top-langs/?username=tunakasif&layout=compact&langs_count=10&theme=dark&hide=tex,jupyter%20notebook&exclude_repo=aa-clinic-website,github-readme-stats,elevator,Bilkent-University-EEE)](https://github.com/tunakasif?tab=repositories)
 
 #### Non-NFT Badges
 
