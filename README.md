@@ -6,6 +6,10 @@
 
 ### 📰 Recent Publications
 
+- A. C. Aras, **T. Alikaşifoğlu** and A. Koç, ["Text-RGNNs: Relational Modeling for Heterogeneous Text Graphs,"](https://doi.org/10.1109/LSP.2024.3433568) in _IEEE Signal Processing Letters_, vol. 31, pp. 1955-1959, 2024, doi: 10.1109/LSP.2024.3433568.
+
+  ⚙️ [Source Code](https://github.com/koc-lab/text-rgnn)
+
 - **T. Alikaşifoğlu**, B. Kartal and A. Koç, ["Wiener Filtering in Joint Time-Vertex Fractional Fourier Domains,"](https://doi.org/10.1109/LSP.2024.3396664) in _IEEE Signal Processing Letters_, vol. 31, pp. 1319-1323, 2024, doi: 10.1109/LSP.2024.3396664.
 
   ⚙️ [Source Code](https://github.com/koc-lab/jfrt-optimal)
