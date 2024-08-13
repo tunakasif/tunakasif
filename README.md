@@ -6,6 +6,14 @@
 
 ### 📰 Recent Publications
 
+- **T. Alikaşifoğlu**, A. C. Aras, and A. Koç. 2024. [VISPool: Enhancing Transformer Encoders with Vector Visibility Graph Neural Networks](https://aclanthology.org/2024.findings-acl.149). In _Findings of the Association for Computational Linguistics ACL 2024_, pages 2547–2556, Bangkok, Thailand and virtual meeting. Association for Computational Linguistics.
+
+  ⚙️ [Source Code](https://github.com/koc-lab/vispool)
+
+- **T. Alikaşifoğlu**, B. Kartal and A. Koç, ["Graph Fractional Fourier Transform: A Unified Theory,"](https://doi.org/10.1109/TSP.2024.3439211) in _IEEE Transactions on Signal Processing_, 2024, doi: 10.1109/TSP.2024.3439211.
+
+  ⚙️ [Experiments Source Code](https://github.com/koc-lab/gfrft-unified) | 🐍 [Trainable GFRFT Package Source Code](https://github.com/tunakasif/torch-gfrft)
+
 - A. C. Aras, **T. Alikaşifoğlu** and A. Koç, ["Text-RGNNs: Relational Modeling for Heterogeneous Text Graphs,"](https://doi.org/10.1109/LSP.2024.3433568) in _IEEE Signal Processing Letters_, vol. 31, pp. 1955-1959, 2024, doi: 10.1109/LSP.2024.3433568.
 
   ⚙️ [Source Code](https://github.com/koc-lab/text-rgnn)
