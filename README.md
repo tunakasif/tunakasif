@@ -1,34 +1,22 @@
-## Hi there 👋, I'm Tuna Alikaşifoğlu
+## Hi there 👋🏻, I'm Tuna Alikaşifoğlu
 
-### Graduate Student at Bilkent University, Electrical and Electronics Engineering Department
+### Graduate Student from Bilkent University, Department of Electrical and Electronics Engineering
 
-- 🔭 I'm currently pursuing an M.S. degree at the Department of Electrical and Electronics Engineering, Bilkent University. I received my B.S. degree from the same department. I'm interested in graph signal processing and graph neural networks.
+- 🔭 I recently received my M.Sc. degree from the Department of Electrical and Electronics Engineering at Bilkent University. I'm interested in graph signal processing (GSP), graph neural networks (GNNs), and natural language processing (NLP).
 
 ### 📰 Recent Publications
 
-- **T. Alikaşifoğlu**, A. C. Aras, and A. Koç. 2024. [VISPool: Enhancing Transformer Encoders with Vector Visibility Graph Neural Networks](https://aclanthology.org/2024.findings-acl.149). In _Findings of the Association for Computational Linguistics ACL 2024_, pages 2547–2556, Bangkok, Thailand and virtual meeting. Association for Computational Linguistics.
+- **T. Alikaşifoğlu**, A. C. Aras, and A. Koç, ["VISPool: Enhancing Transformer Encoders with Vector Visibility Graph Neural Networks,"](https://aclanthology.org/2024.findings-acl.149) in _Findings of the Association for Computational Linguistics ACL 2024_, pp. 2547–2556, Bangkok, Thailand and virtual meeting. ⚙️ [Source Code](https://github.com/koc-lab/vispool) | 🐍 [Vector Visibility Graph Package](https://github.com/tunakasif/vector-vis-graph)
 
-  ⚙️ [Source Code](https://github.com/koc-lab/vispool)
+- **T. Alikaşifoğlu**, B. Kartal and A. Koç, ["Graph Fractional Fourier Transform: A Unified Theory,"](https://doi.org/10.1109/TSP.2024.3439211) in _IEEE Transactions on Signal Processing_, vol. 72, pp. 3834-3850, 2024, doi: 10.1109/TSP.2024.3439211. ⚙️ [Experiments Source Code](https://github.com/koc-lab/gfrft-unified) | 🐍 [Trainable GFRFT Package](https://github.com/tunakasif/torch-gfrft)
 
-- **T. Alikaşifoğlu**, B. Kartal and A. Koç, ["Graph Fractional Fourier Transform: A Unified Theory,"](https://doi.org/10.1109/TSP.2024.3439211) in _IEEE Transactions on Signal Processing_, 2024, doi: 10.1109/TSP.2024.3439211.
+- A. C. Aras, **T. Alikaşifoğlu** and A. Koç, ["Text-RGNNs: Relational Modeling for Heterogeneous Text Graphs,"](https://doi.org/10.1109/LSP.2024.3433568) in _IEEE Signal Processing Letters_, vol. 31, pp. 1955-1959, 2024, doi: 10.1109/LSP.2024.3433568. ⚙️ [Source Code](https://github.com/koc-lab/text-rgnn)
 
-  ⚙️ [Experiments Source Code](https://github.com/koc-lab/gfrft-unified) | 🐍 [Trainable GFRFT Package Source Code](https://github.com/tunakasif/torch-gfrft)
+- **T. Alikaşifoğlu**, B. Kartal and A. Koç, ["Wiener Filtering in Joint Time-Vertex Fractional Fourier Domains,"](https://doi.org/10.1109/LSP.2024.3396664) in _IEEE Signal Processing Letters_, vol. 31, pp. 1319-1323, 2024, doi: 10.1109/LSP.2024.3396664. ⚙️ [Source Code](https://github.com/koc-lab/jfrt-optimal)
 
-- A. C. Aras, **T. Alikaşifoğlu** and A. Koç, ["Text-RGNNs: Relational Modeling for Heterogeneous Text Graphs,"](https://doi.org/10.1109/LSP.2024.3433568) in _IEEE Signal Processing Letters_, vol. 31, pp. 1955-1959, 2024, doi: 10.1109/LSP.2024.3433568.
+- A. C. Aras, **T. Alikaşifoğlu** and A. Koç, ["Graph Receptive Transformer Encoder for Text Classification,"](https://doi.org/10.1109/TSIPN.2024.3380362) in _IEEE Transactions on Signal and Information Processing over Networks_, vol. 10, pp. 347-359, 2024, doi: 10.1109/TSIPN.2024.3380362. ⚙️ [Source Code](https://github.com/koc-lab/grte)
 
-  ⚙️ [Source Code](https://github.com/koc-lab/text-rgnn)
-
-- **T. Alikaşifoğlu**, B. Kartal and A. Koç, ["Wiener Filtering in Joint Time-Vertex Fractional Fourier Domains,"](https://doi.org/10.1109/LSP.2024.3396664) in _IEEE Signal Processing Letters_, vol. 31, pp. 1319-1323, 2024, doi: 10.1109/LSP.2024.3396664.
-
-  ⚙️ [Source Code](https://github.com/koc-lab/jfrt-optimal)
-
-- A. C. Aras, **T. Alikaşifoğlu** and A. Koç, ["Graph Receptive Transformer Encoder for Text Classification,"](https://doi.org/10.1109/TSIPN.2024.3380362) in _IEEE Transactions on Signal and Information Processing over Networks_, vol. 10, pp. 347-359, 2024, doi: 10.1109/TSIPN.2024.3380362.
-
-  ⚙️ [Source Code](https://github.com/koc-lab/grte)
-
-- E. Koç, **T. Alikaşifoğlu**, A. C. Aras and A. Koç, ["Trainable Fractional Fourier Transform,"](https://doi.org/10.1109/LSP.2024.3372779) in _IEEE Signal Processing Letters_, vol. 31, pp. 751-755, 2024, doi: 10.1109/LSP.2024.3372779.
-
-  ⚙️ [Experiments Source Code](https://github.com/koc-lab/TrainableFrFT) | ⚙️ [Package Source Code](https://github.com/tunakasif/torch-frft) | 🐍 [PyPI Package](https://pypi.org/project/torch-frft/)
+- E. Koç, **T. Alikaşifoğlu**, A. C. Aras and A. Koç, ["Trainable Fractional Fourier Transform,"](https://doi.org/10.1109/LSP.2024.3372779) in _IEEE Signal Processing Letters_, vol. 31, pp. 751-755, 2024, doi: 10.1109/LSP.2024.3372779. ⚙️ [Experiments Source Code](https://github.com/koc-lab/TrainableFrFT) | ⚙️ [Package Source Code](https://github.com/tunakasif/torch-frft) | 🐍 [PyPI Package](https://pypi.org/project/torch-frft/)
 
 ---
 
