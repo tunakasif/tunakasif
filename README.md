@@ -1,10 +1,10 @@
 ## Hi there 👋🏻, I'm Tuna Alikaşifoğlu
 
-### Graduate Student from Bilkent University, Department of Electrical and Electronics Engineering
+🔭 I recently received my M.Sc. degree from the Department of Electrical and Electronics Engineering at Bilkent University. I'm interested in graph signal processing (GSP), graph neural networks (GNNs), and natural language processing (NLP).
 
-- 🔭 I recently received my M.Sc. degree from the Department of Electrical and Electronics Engineering at Bilkent University. I'm interested in graph signal processing (GSP), graph neural networks (GNNs), and natural language processing (NLP).
+#### 📰 Publications
 
-### 📰 Recent Publications
+- **T. Alikaşifoğlu**, B. Kartal, E. Özgünay, and A. Koç, ["Joint Time-Vertex Fractional Fourier Transform,"](https://doi.org/10.1016/j.sigpro.2025.109944) Signal Processing, vol. 233. Elsevier BV, p. 109944, Aug. 2025.
 
 - **T. Alikaşifoğlu**, A. C. Aras, and A. Koç, ["VISPool: Enhancing Transformer Encoders with Vector Visibility Graph Neural Networks,"](https://aclanthology.org/2024.findings-acl.149) in _Findings of the Association for Computational Linguistics ACL 2024_, pp. 2547–2556, Bangkok, Thailand and virtual meeting. ⚙️ [Source Code](https://github.com/koc-lab/vispool) | 🐍 [Vector Visibility Graph Package](https://github.com/tunakasif/vector-vis-graph)
 
