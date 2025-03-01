@@ -2,7 +2,9 @@
 
 🔭 I recently received my M.Sc. degree from the Department of Electrical and Electronics Engineering at Bilkent University. I'm interested in graph signal processing (GSP), graph neural networks (GNNs), and natural language processing (NLP).
 
-#### 📰 Publications
+<details>
+  
+<summary>📰 Publications</summary>
 
 - **T. Alikaşifoğlu**, B. Kartal, E. Özgünay, and A. Koç, ["Joint Time-Vertex Fractional Fourier Transform,"](https://doi.org/10.1016/j.sigpro.2025.109944) Signal Processing, vol. 233. Elsevier BV, p. 109944, Aug. 2025, doi: 10.1016/j.sigpro.2025.109944.
 
@@ -17,6 +19,8 @@
 - A. C. Aras, **T. Alikaşifoğlu** and A. Koç, ["Graph Receptive Transformer Encoder for Text Classification,"](https://doi.org/10.1109/TSIPN.2024.3380362) in _IEEE Transactions on Signal and Information Processing over Networks_, vol. 10, pp. 347-359, 2024, doi: 10.1109/TSIPN.2024.3380362. ⚙️ [Source Code](https://github.com/koc-lab/grte)
 
 - E. Koç, **T. Alikaşifoğlu**, A. C. Aras and A. Koç, ["Trainable Fractional Fourier Transform,"](https://doi.org/10.1109/LSP.2024.3372779) in _IEEE Signal Processing Letters_, vol. 31, pp. 751-755, 2024, doi: 10.1109/LSP.2024.3372779. ⚙️ [Experiments Source Code](https://github.com/koc-lab/TrainableFrFT) | ⚙️ [Package Source Code](https://github.com/tunakasif/torch-frft) | 🐍 [PyPI Package](https://pypi.org/project/torch-frft/)
+
+</details>
 
 ---
 
