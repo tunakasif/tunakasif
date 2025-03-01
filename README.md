@@ -6,7 +6,7 @@
   
 <summary>📰 Publications</summary>
 
-- **T. Alikaşifoğlu**, B. Kartal, E. Özgünay, and A. Koç, ["Joint Time-Vertex Fractional Fourier Transform,"](https://doi.org/10.1016/j.sigpro.2025.109944) Signal Processing, vol. 233. Elsevier BV, p. 109944, Aug. 2025, doi: 10.1016/j.sigpro.2025.109944.
+- **T. Alikaşifoğlu**, B. Kartal, E. Özgünay, and A. Koç, ["Joint Time-Vertex Fractional Fourier Transform,"](https://doi.org/10.1016/j.sigpro.2025.109944) _Signal Processing_, vol. 233. Elsevier BV, p. 109944, Aug. 2025, doi: 10.1016/j.sigpro.2025.109944.
 
 - **T. Alikaşifoğlu**, A. C. Aras, and A. Koç, ["VISPool: Enhancing Transformer Encoders with Vector Visibility Graph Neural Networks,"](https://aclanthology.org/2024.findings-acl.149) in _Findings of the Association for Computational Linguistics ACL 2024_, pp. 2547–2556, Bangkok, Thailand and virtual meeting, doi: 10.18653/v1/2024.findings-acl.149. ⚙️ [Source Code](https://github.com/koc-lab/vispool) | 🐍 [Vector Visibility Graph Package](https://github.com/tunakasif/vector-vis-graph)
 
