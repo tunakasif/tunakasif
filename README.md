@@ -1,6 +1,6 @@
 ## Hi there 👋🏻, I'm Tuna Alikaşifoğlu
 
-🔭 I recently received my M.Sc. degree from the Department of Electrical and Electronics Engineering at Bilkent University. I'm interested in graph signal processing (GSP), graph neural networks (GNNs), and natural language processing (NLP).
+🔭 I am a PhD Student in Electrical Engineering at EPFL. I'm interested in graph signal processing (GSP), graph neural networks (GNNs), and natural language processing (NLP).
 
 <details>
   
@@ -27,10 +27,6 @@
 #### Popular Contributions
 
 ![Popular Contributions](https://github-contributor-stats.vercel.app/api?username=tunakasif&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-#### Non-NFT Badges
-
-[![@tunakasif's Holopin board](https://holopin.io/api/user/board?user=tunakasif)](https://holopin.io/@tunakasif)
 
 #### Donation
 
