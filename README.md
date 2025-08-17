@@ -1,6 +1,11 @@
 ## Hi there 👋🏻, I'm Tuna Alikaşifoğlu
 
-🔭 I am a PhD Student in Electrical Engineering at EPFL. I'm interested in graph signal processing (GSP), graph neural networks (GNNs), and natural language processing (NLP).
+👨‍🎓 I am a PhD Student in Electrical Engineering at EPFL
+
+🔭 I'm interested in:
+  - Graph Signal Processing (GSP)
+  - Graph Neural Networks (GNNs)
+  - Natural Language Processing (NLP)
 
 <details>
   
@@ -22,13 +27,9 @@
 
 </details>
 
----
-
 #### Popular Contributions
 
 ![Popular Contributions](https://github-contributor-stats.vercel.app/api?username=tunakasif&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-#### Donation
 
 [![Github Sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/tunakasif)
 [![Profile View](https://komarev.com/ghpvc/?username=tunakasif&style=for-the-badge&label=Views+since+2023-03-06)](https://github.com/tunakasif)
