@@ -1,19 +1,24 @@
+<!-- markdownlint-disable MD001 MD013 MD033 MD041 -->
+
 ## Hi there 👋🏻, I'm Tuna Alikaşifoğlu
 
 👨🏼‍💻 I am a PhD Student in Electrical Engineering at EPFL.
 
 🔭 I'm interested in:
-  - Graph Signal Processing (GSP)
-  - Graph Neural Networks (GNNs)
-  - Natural Language Processing (NLP)
+
+- Graph Signal Processing (GSP)
+- Graph Neural Networks (GNNs)
+- Natural Language Processing (NLP)
 
 <details>
-  
-<summary>📰 Publications & ⚙️ Source Codes</summary>
 
-- **T. Alikaşifoğlu**, B. Kartal, E. Özgünay, and A. Koç, ["Joint Time-Vertex Fractional Fourier Transform"](https://doi.org/10.1016/j.sigpro.2025.109944) in _Signal Processing_, Aug. 2025.
+<summary><strong>📰 Publications & ⚙️ Source Codes</strong></summary>
 
-- **T. Alikaşifoğlu**, A. C. Aras, and A. Koç, ["VISPool: Enhancing Transformer Encoders with Vector Visibility Graph Neural Networks"](https://aclanthology.org/2024.findings-acl.149) in _Findings of the Association for Computational Linguistics ACL 2024_. ⚙️ [Source Code](https://github.com/koc-lab/vispool) | 🐍 [Vector Visibility Graph Package](https://github.com/tunakasif/vector-vis-graph)
+- E. Koç, A. C. Aras, **T. Alikaşifoğlu** and A. Koç, ["GraphTeacher: Transductive Fine-Tuning of Encoders through Graph Neural Networks"](https://doi.org/10.1109/TAI.2025.3627514) in _IEEE Transactions on Artificial Intelligence_, Oct. 2025. ⚙️ [Source Code](https://github.com/koc-lab/graph-teacher)
+
+- **T. Alikaşifoğlu**, B. Kartal, E. Özgünay, and A. Koç, ["Joint Time-Vertex Fractional Fourier Transform"](https://doi.org/10.1016/j.sigpro.2025.109944) in _Signal Processing_, Feb. 2025.
+
+- **T. Alikaşifoğlu**, A. C. Aras, and A. Koç, ["VISPool: Enhancing Transformer Encoders with Vector Visibility Graph Neural Networks"](https://aclanthology.org/2024.findings-acl.149) in _Findings of the Association for Computational Linguistics ACL 2024_, Aug. 2024. ⚙️ [Source Code](https://github.com/koc-lab/vispool) | 🐍 [Vector Visibility Graph Package](https://github.com/tunakasif/vector-vis-graph)
 
 - **T. Alikaşifoğlu**, B. Kartal and A. Koç, ["Graph Fractional Fourier Transform: A Unified Theory"](https://doi.org/10.1109/TSP.2024.3439211) in _IEEE Transactions on Signal Processing_, Aug. 2024. ⚙️ [Experiments Source Code](https://github.com/koc-lab/gfrft-unified) | 🐍 [Trainable GFRFT Package](https://github.com/tunakasif/torch-gfrft)
 
@@ -27,10 +32,10 @@
 
 </details>
 
-#### Popular Contributions
+#### Popular Open Source Contributions
 
 ![Popular Contributions](https://github-contributor-stats.vercel.app/api?username=tunakasif&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-[![Github Sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/tunakasif)
+[![GitHub Sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/tunakasif)
 [![Profile View](https://komarev.com/ghpvc/?username=tunakasif&style=for-the-badge&label=Views+since+2023-03-06)](https://github.com/tunakasif)
-![](https://hit.yhype.me/github/profile?user_id=34691280)
+![Profile Visit](https://hit.yhype.me/github/profile?user_id=34691280)
