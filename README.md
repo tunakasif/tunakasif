@@ -38,4 +38,4 @@
 
 [![GitHub Sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/tunakasif)
 [![Profile View](https://komarev.com/ghpvc/?username=tunakasif&style=for-the-badge&label=Views+since+2023-03-06)](https://github.com/tunakasif)
-![Profile Visit](https://hit.yhype.me/github/profile?user_id=34691280)
+![Profile Visit](https://hit.yhype.me/github/profile?account_id=34691280)
