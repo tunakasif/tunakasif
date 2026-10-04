@@ -34,7 +34,7 @@
 
 #### Popular Open Source Contributions
 
-![Popular Contributions](https://github-contributor-stats.vercel.app/api?username=tunakasif&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Popular Contributions](https://github-contribution-card.vercel.app/api?username=tunakasif&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 [![GitHub Sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/tunakasif)
 [![Profile View](https://komarev.com/ghpvc/?username=tunakasif&style=for-the-badge&label=Views+since+2023-03-06)](https://github.com/tunakasif)
